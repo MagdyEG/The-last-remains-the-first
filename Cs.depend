@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1645975071 source:g:\programing\cs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645975071 source:g:\programing\the diameter is equal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645975071 source:g:\programing\the last remains the first\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
